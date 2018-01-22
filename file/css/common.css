@@ -1,0 +1,49 @@
+/*全局样式*/
+
+* {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	text-decoration: none;
+	outline: none;
+}
+
+html,
+body {
+	width: 100%;
+	min-width: 1200px;
+	height: 100%;
+}
+
+body {
+	background: #fff;
+	font:13px/1.5 \5FAE\8F6F\96C5\9ED1,simsun,sans-serif;
+}
+a{
+	color: #777;
+	transition: all 1s;
+	-webkit-transition: all 1s;
+	-o-transition: all 1s;
+	-ms-transition: all 1s;
+	-moz-transition: all 1s;
+}
+a:hover{
+	color: #169af3;
+}
+.fl {
+	float: left;
+}
+
+.fr {
+	float: right;
+}
+
+.clearBoth {
+	overflow: hidden;
+	zoom: 1;
+}
+
+.w1000 {
+	width: 1000px;
+	margin: 0 auto;
+}

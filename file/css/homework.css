@@ -1,0 +1,187 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.content{
+	width: 1300px;
+	margin: 0 auto;
+}
+a{
+	text-decoration: none;
+	color:#fff;
+}
+.nav a{
+	padding: 0 20px;
+}
+.nav img{
+	position:relative;
+	top: 10px;
+	left: 10px;
+}
+.nav{
+	height: 60px;
+	background: #000;
+	
+	line-height:60px;
+}
+h1{
+	background: url(../img/iconl.png) no-repeat center center;
+	text-indent: -9999px;
+	float:left;
+	height: 60px;
+	width: 200px;
+}
+.nav li{
+	list-style: none;
+	float:left;
+}
+.nav ul{
+	overflow: hidden;
+	float:left;
+}
+.nav .imgg{
+	background: url(../img/xsj.png) no-repeat 90px center;
+}
+.nav .icon{
+	background: url(../img/stg.png) no-repeat 20px center;
+}
+.up{
+	height: 342px;
+}
+.up img{
+	width: 1300px;		
+}
+.up-con{
+	position: absolute;
+	top: 245px;
+	left: 577px;
+	color: #fff;
+}
+.up-con span{
+	padding-left: 36px;
+}
+.column{
+	height: 500px;
+	position:relative;
+	top: 0;
+	left: 0;
+}
+.column p{
+	margin-bottom: 30px;
+}
+.txtup div{
+	position: absolute;
+	top: 145px;
+	left: 560px;
+	width: 500px;
+	line-height:34px;
+}
+.column div h2{
+	margin-bottom:16px;
+	color: #23a6d1;
+	font-weight: 500;
+}
+.txtup{
+	background: url(../img/left.png) no-repeat 50px center;
+}
+.txtup .zhu{
+	background:url(../img/zhu.png) no-repeat 0px center;
+	position: absolute;
+	top: 0px;
+	right: 0;
+	width: 138px;
+	height: 204px;
+}
+p span{
+	color:#73bfdd;
+}
+.txttop{
+	background: #fff9ed url(../img/right.png) no-repeat 830px center;
+}
+
+.txttop div{
+	position: absolute;
+	top: 145px;
+	left: 200px;
+	width: 500px;
+	line-height:34px;
+}
+.txttgg{
+	background: url(../img/huojian.png) no-repeat 50px center;
+}
+.txttgg div{
+	position: absolute;
+	top: 145px;
+	left: 560px;
+	width: 500px;
+	line-height:34px;
+}
+.txtmid{
+	background: #fff9ed url(../img/right1.png) no-repeat 830px center;
+}
+.txtmid div{
+	position: absolute;
+	top: 145px;
+	left: 200px;
+	width: 500px;
+	line-height:34px;
+}
+.txtmidd{
+	background: url(../img/left1.png) no-repeat 50px center;
+}
+.txtmidd div{
+	position: absolute;
+	top: 145px;
+	left: 560px;
+	width: 500px;
+	line-height:34px;
+}
+.txttag{
+	background: #fff9ed url(../img/left.png) no-repeat 830px center;
+}
+.txttag div{
+	position: absolute;
+	top: 145px;
+	left: 200px;
+	width: 500px;
+	line-height:34px;
+}
+.txtleft{
+	background: url(../img/left.png) no-repeat 50px center;
+}
+.txtleft div{
+	position: absolute;
+	top: 145px;;
+	left: 560px;
+	width: 500px;
+	line-height:34px;
+}
+.txtright{
+	background: #fff9ed url(../img/right2.png) no-repeat 830px center;
+}
+.txtright div{
+	position: absolute;
+	top: 145px;
+	left: 200px;
+	width: 500px;
+	line-height:34px;
+}
+.foot{
+	height: 120px;
+	text-align: center;
+	
+}
+.foot ul{
+	overflow: hidden;
+	margin:42px 0 10px;
+	
+}
+.foot ul li{
+	display: inline-block;
+	list-style: none;
+}
+.foot ul a{
+	color: #000;
+	padding: 0 12px;
+}
+

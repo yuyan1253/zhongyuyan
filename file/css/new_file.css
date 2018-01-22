@@ -1,0 +1,12 @@
+div{
+				/*width: 200px;
+				height: 200px;*/
+				/*background:url(../img/mail.gif) #cf9 no-repeat center center;*/
+				border-top: 200px solid #fff;
+				border-bottom:100px dotted #c93;
+				border-left: 200px solid #fff;
+				border-right: 200px solid #fff;
+				background: #c93;
+				/*border-radius: 100px;*/
+			}
+			

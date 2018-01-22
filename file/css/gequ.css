@@ -1,0 +1,86 @@
+*{
+margin: 0;padding: 0;
+}
+body{
+	background: #F8F8FF;
+}
+.box{
+			width: 570px;
+	        height: 255px;
+	        margin: 10px auto;
+	       /* padding-left:5px;*/
+		}	
+ul li{
+			width: 560px;
+			height: 40px;
+			border-bottom: 2px solid #f4f4f4;
+			background: #fff;
+			line-height: 40px;
+			padding-left:6px;
+		}
+ul{
+			list-style:none;
+		}
+ul .head{
+			background: #fafafa;
+		}	
+.play{
+			display: inline-block;
+		}
+.play span{
+				margin-right: 30px;
+		}
+
+.head .sspan{
+			margin-left: 10px;
+			margin-right: 145px;
+			width: 158px;
+	        height: 32px;
+	        background:url(../imgl/sj.gif)no-repeat 10px center;
+	        border: 1px solid #d5d5d5;
+	        display: inline-block;
+	        text-align: center;
+	       line-height: 32px;
+		}
+img{
+			width:27px;
+			height: 27px;
+			position: relative;
+			top:5px;
+			margin-right: 35px;
+		}
+p{
+			display: inline-block;
+			
+		}
+.list span{
+			display: inline-block;
+			margin-left: 30px;
+		}
+.xu{
+			padding-left: 105px;
+		}
+.xu1{
+			padding-left: 90px;
+		}
+.xu2{
+			padding-left: 75px;
+		}
+.tubiao{
+			margin-left: 70px;
+		}
+.tubiao1{
+			margin-left: 85px;
+		}
+.tubiao2{
+			margin-left: 59px;
+		}
+.tubiao3{
+			margin-left: 84px;
+		}
+.tubiao4{
+			margin-left: 29px;
+		}
+.list span{
+	color: #0b0889;
+}

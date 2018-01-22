@@ -1,0 +1,404 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+ text-decoration: none;	
+}
+li{
+	list-style: none;
+}
+.wrap{
+	background: url(../img/t-bj.png) no-repeat center top;
+}
+i{
+	font-style: normal;
+}
+.up{
+	height: 120px;
+	background: url(../img/t-up.png) no-repeat center top;
+	position: relative;
+	top: 0;
+	left: 0;
+	
+}
+.top{
+	width: 1000px;
+	margin: 0 auto;
+	zoom: 1;
+}
+.top:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+h1{
+	border-right: 1px solid #fff;
+	float: left;
+	margin-top: 48px;
+	font-size: 50px;
+	font-weight: 500;
+	padding: 0 60px;
+	color:#e5e5e5;
+}
+.up-span{
+	float: right;
+	width: 716px;
+	
+}
+.span-pic{
+	width: 476px;
+	height: 49px;
+	/*padding: 0 24px;*/
+	display: inline-block;
+	background: url(../img/t-zi.png) no-repeat center center;
+}
+.span-yiyi{
+	width: 144px;
+	height: 102px;
+	display: inline-block;
+	margin-left:50px;
+	background: url(../img/t-11.png) no-repeat left top;
+}
+#nav{
+	content: "";
+	display: block;
+	clear: both;
+}
+#nav{
+	height: 30px;
+	background: url(../img/t-nav.png) no-repeat center 0;
+	line-height: 28px;
+}
+.nav_up{
+	width: 1000px;
+	margin: 0 auto;
+}
+.nav_up ul{
+	overflow: hidden;
+	
+}
+.nav_up ul li{
+	float: left;
+
+}
+.nav_up ul li a{
+	color:#fff;
+	padding: 0 24px;
+}
+.theme{
+	position:relative;
+	top: 0;
+	left: 0;
+}
+.theme_mid {
+  width: 1000px;
+  margin: 90px auto 150px;
+  height: 488px;
+  background: url(../img/t-logo.png) no-repeat center center;
+  position: relative;
+  top: 0;
+  left: 0; 
+  }
+
+.theme_mid h2 {
+  position: absolute;
+  bottom:32px;
+  left:227px;
+  color: #fff;
+  font-size: 40px;
+  font-weight:500;
+   }
+  .content{
+   	width: 1000px;
+    margin: 0px auto;
+  
+  }
+.main:after{
+	display: block;
+	clear: both;
+	content: "";
+}
+.main{
+	  zoom: 1;
+}
+.con{
+  	width: 295px;
+  	/*height: 150px;*/
+  	background: url(../img/hdm.png) no-repeat;
+  	float:left;
+  	margin-left: 52px;
+  	overflow: hidden;
+  	color: #fff;
+  }
+.left-h{
+	margin-left:0;
+}
+.con-left{
+	float: left;
+	margin: 20px 0 30px 10px;
+	font-size: 80px;
+	
+}
+.con-right{
+	float:right;
+	margin: 32px 25px 32px 0;
+}
+.con-right h3{
+	font-size: 26px;
+}
+.con-right p{
+	font-size: 14px;
+}
+.con-right a{
+	color:#8711b0;
+	font-size: 14px;
+	background: #fff;
+	padding: 5px 8px;
+	margin-top: 6px;
+	display:block;
+	text-align:right;
+}
+.cover{
+	width: 990px;
+	height: 115px;
+	line-height: 115px;
+	background: url(../img/t-rmdj.png) no-repeat;
+	margin-top: 18px;
+	position: relative;
+    top: 0;
+    left: 0;
+    text-align:center;
+}
+.cover h2{
+	font-size: 66px;
+	color: #e0aaf7;
+	font-weight:100;
+}
+.cover h2 span{
+	
+	font-weight: 500;
+}
+.cover img{
+	position: absolute;
+    top: 0;
+   
+}
+.cover .imgl{
+	 left: 27px;
+	 top: 53px;
+}
+.cover .imgr{
+	 right: 27px;
+	 top: 53px;
+}
+
+.products{
+	border: 2px solid #04a7a3;
+	width: 986px;
+	height:353px;
+	margin: 6px 0;	
+}
+.products-con{
+	float: left;
+	margin: 25px 0 0 16px;
+	color:#eccbfa;
+	position: relative;
+    top: 0;
+    left: 0;
+}
+.products-two{
+	float:right;
+	margin: 25px 16px 0 0;
+	color:#eccbfa;
+	position: relative;
+    top: 0;
+    left: 0;
+}
+.products-con h2,.products-two h2{
+	font-size: 50px;
+	font-weight: 100;
+}
+.products h2 span{
+	font-weight: 600;
+}
+.products-con>p{
+	border-bottom: 1px solid #dc9ff5;
+	font-size: 28px;
+	padding-bottom: 10px;
+}
+.products-two>p{
+	border-bottom: 1px solid #dc9ff5;
+	font-size: 28px;
+	padding-bottom: 10px;
+} 
+
+.products-con h3{
+	padding-bottom: 5px;
+	border-bottom: 1px solid #dc9ff5;
+	font-size: 30px;
+	font-weight: 600;
+}
+.products-two h3{
+	padding-bottom: 5px;
+	border-bottom: 1px solid #dc9ff5;
+	font-size: 30px;
+	font-weight: 600;
+}
+.con_l{
+	float: left;
+	background: #fd20a8;
+	padding: 5px 10px;
+}
+.con_l p,.con_r p{
+	font-size: 25px;
+}
+b{
+  font-weight: normal;
+}
+.con_l b{
+	
+	font-size: 50px;
+}
+.conl{
+	float: left;
+}
+.products-tag {
+	margin-top:18px;
+	margin-left:10px;
+	overflow:hidden;
+}
+.con_r{
+	width: 360px;
+	float:left;
+	margin-left:20px;
+	position: relative;
+    top: 0;
+    left: 0;
+    padding-bottom: 18px;
+    border-bottom: 2px dotted #eccbfa;
+}
+.products-con a{
+	background: url(../img/t-lj.png) no-repeat;
+	position:absolute;
+	width: 133px;
+	height:133px;
+    bottom:10px;
+    right:-350px;
+}
+.products-two a{
+	background: url(../img/t-lj.png) no-repeat;
+	position:absolute;
+	width: 133px;
+	height:133px;
+    bottom:10px;
+    left:-350px;
+}
+
+.con_r h4{
+	font-size: 40px;
+	font-weight: 100;
+}
+.conr{
+	font-size: 105px;
+	position:absolute;
+    top:-15px;
+    left: 90px;
+    font-family: "宋体";
+}
+.conr sub{
+	position:absolute;
+    top:32px;
+    left:178px;
+}
+.con_r img{
+	position:absolute;
+    top: 0;
+    left: 332px;
+}
+.menu-pic{
+	width: 1000px;
+	margin: 6px auto 0;
+}
+.menu-pic ul{
+	overflow: hidden;
+}
+.menu-pic ul li{
+	float:left;
+	width: 320px;
+	height: 408px;
+	margin-left:15px;
+	margin-bottom: 15px;
+	/*background: #fff;*/
+	position: relative;
+    top: 0;
+    left: 0;
+    color: #fff;
+ 
+}
+.menu-pic ul .pic-lim{
+background:#fff url(../img/cp-bb.jpg) no-repeat center 35px;	
+}
+.menu-pic ul .pic-lir{
+background:#fff url(../img/pic-4.jpg) no-repeat center 35px;	
+}
+.menu-pic ul .picli{
+background:#fff url(../img/pic-3.png) no-repeat center 35px;	
+}
+.menu-pic ul .pic-li-l{
+background:#fff url(../img/pic-3.jpg) no-repeat center 35px;
+}
+.menu-pic ul .pic-li-r{
+background:#fff url(../img/pic-1.jpg) no-repeat center 20px;	
+}
+.menu-pic ul .pic-li{
+	margin-left: 0;
+	background:#fff url(../img/z1.jpg) no-repeat center 35px;
+}
+.menu-pic ul .picli{
+	background:#fff url(../img/pic-5.jpg) no-repeat center 35px;
+}
+.picdiv{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+.picdiv h4{
+	width: 304px;
+	padding: 15px 8px;
+	font-size: 22px;
+	background:#4d72fe;
+}
+.picdiv>img{
+	position: absolute;
+	top: -105px;
+	left: 12px;
+	
+}
+.div-right p{
+	font-size: 20px;
+	color: #a19f9f;
+	padding-left: 4px;
+}
+.div-right{
+	position: absolute;
+	top: -75px;
+	right: 5px;
+	
+}
+.div-right .bg{
+	width: 180px;
+	height: 44px;
+	background: url(../img/t-tj.png) no-repeat;
+	
+	padding:4px 0px 4px 12px;
+}
+.bg span{
+	font-size: 16px;
+}
+.bg b{
+	font-size: 26px;
+}
+.bg i{
+	font-size: 20px;
+}
